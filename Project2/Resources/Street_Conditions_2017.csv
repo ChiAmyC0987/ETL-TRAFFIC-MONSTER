@@ -1,0 +1,359 @@
+﻿CNN,STREET,PCI_Score,From_Street,To_Street,PCI_Change_Date,Treatment_or_Survey,Street_Accepted_For_Maintenance,Functional_Class
+8321000,Liberty St,100,Valencia St,Guerrero St,12/28/17,Treatment,Yes,Residential
+33124000,HUMBOLDT ST,100,VERMONT ST,Intersection,12/27/17,Treatment,No,
+51760000,Bay Shore Blvd On Ramp: Hwy 101 S On Ramp \ Potrero Ave Intersection,100,HWY 101 S ON RAMP \ POTRERO AVE,Intersection,12/27/17,Treatment,No,
+13219000,Vermont St,100,22nd St,Humboldt St,12/27/17,Treatment,Yes,Residential
+13220000,Vermont St,100,Humboldt St,23rd St,12/27/17,Treatment,Yes,Residential
+8436000,Lombard St,100,Child St,Julius St,12/18/17,Treatment,Yes,Residential
+11583000,Santa Paula Ave,100,Santa Monica Way,Terrace Walk \ Yerba Buena Ave,12/18/17,Treatment,Yes,Residential
+13524002,Webster St,100,Rose St,Page St,12/18/17,Treatment,Yes,Arterial
+11582000,Santa Paula Ave,100,Portola Dr,Santa Monica Way,12/18/17,Treatment,Yes,Residential
+13524001,Webster St,100,Haight St,Rose St,12/18/17,Treatment,Yes,Arterial
+8437000,Lombard St,100,Julius St,Grant Ave,12/18/17,Treatment,Yes,Residential
+1615000,29th Ave,100,Irving St,Judah St,12/11/17,Treatment,Yes,Residential
+1614000,29th Ave,100,Lincoln Way,Irving St,12/11/17,Treatment,Yes,Residential
+1480000,26th Ave,100,Kirkham St,Lawton St,12/11/17,Treatment,Yes,Residential
+24189000,Alameda St: Potrero Ave Intersection,100,POTRERO AVE,Intersection,12/11/17,Treatment,No,
+10659000,Potrero Ave,100,Alameda St,15th St,12/11/17,Treatment,Yes,Arterial
+10661000,Potrero Ave,100,16th St,17th St,12/6/17,Treatment,Yes,Arterial
+24186000,15th St: Potrero Ave Intersection,100,POTRERO AVE,Intersection,12/6/17,Treatment,No,
+10660000,Potrero Ave,100,15th St,16th St,12/6/17,Treatment,Yes,Arterial
+9629000,Noe St,83,Jersey St,25th St,11/30/17,Treatment,Yes,Residential
+6609000,Haight St,100,Steiner St,Pierce St,11/30/17,Treatment,Yes,Collector
+6614000,Haight St,100,Baker St \ Buena Vista Ave,Lyon St,11/30/17,Treatment,Yes,Arterial
+1832000,37th Ave,100,Noriega St,Ortega St,11/30/17,Treatment,Yes,Residential
+1838000,37th Ave,100,Taraval St,Ulloa St,11/30/17,Treatment,Yes,Residential
+6922000,Hill St,94,Sanchez St,Noe St,11/30/17,Treatment,Yes,Residential
+4736000,Diamond St,91,17th St,Market St,11/30/17,Treatment,Yes,Residential
+6855000,Head St,100,Randolph St,Sargent St,11/30/17,Treatment,Yes,Residential
+6607000,Haight St,100,Webster St,Fillmore St,11/30/17,Treatment,Yes,Collector
+10502201,Pioche St,75,End,Madison St,11/30/17,Treatment,Yes,Residential
+26323000,Haight St: Lyon St Intersection,100,LYON ST,Intersection,11/30/17,Treatment,No,
+26033000,Baker St: Buena Vista Ave \ Haight St Intersection,100,BUENA VISTA AVE \ HAIGHT ST,Intersection,11/30/17,Treatment,No,
+25867000,Haight St: Laguna St Intersection,100,LAGUNA ST,Intersection,11/30/17,Treatment,No,
+25869000,Buchanan St: Haight St Intersection,100,HAIGHT ST,Intersection,11/30/17,Treatment,No,
+26034000,Broderick St: Haight St Intersection,100,HAIGHT ST,Intersection,11/30/17,Treatment,No,
+26025000,Haight St: Scott St Intersection,100,SCOTT ST,Intersection,11/30/17,Treatment,No,
+25999000,Haight St: Pierce St Intersection,100,PIERCE ST,Intersection,11/30/17,Treatment,No,
+25993000,Haight St: Steiner St Intersection,100,STEINER ST,Intersection,11/30/17,Treatment,No,
+25898000,Haight St: Webster St Intersection,100,WEBSTER ST,Intersection,11/30/17,Treatment,No,
+124000,02nd Ave,100,Anza St,Balboa St,11/30/17,Treatment,Yes,Residential
+1803000,36th Ave,100,Irving St,Judah St,11/30/17,Treatment,Yes,Residential
+1828000,37th Ave,100,Judah St,Kirkham St,11/30/17,Treatment,Yes,Residential
+4958000,Douglass St,94,Clipper St,26th St,11/30/17,Treatment,Yes,Residential
+1830000,37th Ave,100,Lawton St,Moraga St,11/30/17,Treatment,Yes,Residential
+1804000,36th Ave,100,Judah St,Kirkham St,11/30/17,Treatment,Yes,Residential
+6613000,Haight St,100,Broderick St,Baker St \ Buena Vista Ave,11/30/17,Treatment,Yes,Arterial
+1042000,20th St,93,Vermont St,San Bruno Ave,11/30/17,Treatment,Yes,Residential
+6615000,Haight St,100,Lyon St,Buena Vista Ave,11/30/17,Treatment,Yes,Arterial
+6605000,Haight St,100,Laguna St,Buchanan St,11/30/17,Treatment,Yes,Collector
+1763000,34th Ave,100,Escondido Ave,Clearfield Dr \ Sloat Blvd,11/30/17,Treatment,Yes,Residential
+426000,09th Ave,100,Geary Blvd,Anza St,11/30/17,Treatment,Yes,Residential
+1566000,27th St,95,Church St,Sanchez St,11/30/17,Treatment,Yes,Residential
+6608000,Haight St,100,Fillmore St,Steiner St,11/30/17,Treatment,Yes,Collector
+6611000,Haight St,100,Scott St,Divisadero St,11/30/17,Treatment,Yes,Collector
+6610000,Haight St,100,Pierce St,Scott St,11/30/17,Treatment,Yes,Collector
+6606000,Haight St,100,Buchanan St,Webster St,11/30/17,Treatment,Yes,Collector
+6612000,Haight St,100,Divisadero St,Broderick St,11/30/17,Treatment,Yes,Arterial
+1648000,30th Ave,100,Lincoln Way,Irving St,11/30/17,Treatment,Yes,Residential
+4291000,Columbus Ave,100,Jack Kerouac Aly \ Saroyan Pl,Broadway,11/27/17,Treatment,Yes,Arterial
+4288000,Columbus Ave,100,Jackson St,Kearny St,11/27/17,Treatment,Yes,Arterial
+4293000,Columbus Ave,100,Grant Ave,Vallejo St,11/27/17,Treatment,Yes,Arterial
+4294000,Columbus Ave,100,Vallejo St,Green St \ Stockton St,11/27/17,Treatment,Yes,Arterial
+4287000,Columbus Ave,100,Gibb St \ Ils Ln,Jackson St,11/27/17,Treatment,Yes,Arterial
+24758000,Columbus Ave: Montgomery St \ Washington St Intersection,100,MONTGOMERY ST \ WASHINGTON ST,Intersection,11/27/17,Treatment,No,
+25321000,Broadway: Columbus Ave Intersection,100,COLUMBUS AVE,Intersection,11/27/17,Treatment,No,
+25332000,Columbus Ave: Vallejo St Intersection,100,VALLEJO ST,Intersection,11/27/17,Treatment,No,
+24794000,Columbus Ave: Jack Kerouac Aly \ Saroyan Pl Intersection,100,JACK KEROUAC ALY \ SAROYAN PL,Intersection,11/27/17,Treatment,No,
+24782000,Columbus Ave: Gibb St \ Ils Ln Intersection,100,GIBB ST \ ILS LN,Intersection,11/27/17,Treatment,No,
+25352000,Columbus Ave: Green St \ Stockton St Intersection,100,GREEN ST \ STOCKTON ST,Intersection,11/27/17,Treatment,No,
+25330000,Columbus Ave: Grant Ave Intersection,100,GRANT AVE,Intersection,11/27/17,Treatment,No,
+24766000,Columbus Ave: Jackson St Intersection,100,JACKSON ST,Intersection,11/27/17,Treatment,No,
+4286000,Columbus Ave,100,Montgomery St \ Washington St,Gibb St \ Ils Ln,11/27/17,Treatment,Yes,Arterial
+4292000,Columbus Ave,100,Broadway,Grant Ave,11/27/17,Treatment,Yes,Arterial
+4297000,Columbus Ave,100,Powell St,Filbert St \ Via Bufano,11/27/17,Treatment,Yes,Arterial
+4290000,Columbus Ave,100,Pacific Ave,Jack Kerouac Aly \ Saroyan Pl,11/27/17,Treatment,Yes,Arterial
+4295000,Columbus Ave,100,Green St \ Stockton St,Union St,11/27/17,Treatment,Yes,Arterial
+13092000,Vallejo St,100,Grant Ave,Columbus Ave,11/27/17,Treatment,Yes,Residential
+5504000,Filbert St,100,Powell St,Columbus Ave \ Via Bufano,11/27/17,Treatment,Yes,Residential
+4779201,Diamond Heights Blvd,100,Diamond St,Addison St \ Gold Mine Dr,11/8/17,Treatment,Yes,Arterial
+22026000,Diamond Heights Blvd: Diamond St Intersection,100,DIAMOND ST,Intersection,11/8/17,Treatment,No,
+21994000,Diamond Heights Blvd: Diamond St Intersection,100,DIAMOND ST,Intersection,11/8/17,Treatment,No,
+4782201,Diamond Heights Blvd,100,Diamond St,Berkeley Way,11/8/17,Treatment,Yes,Arterial
+4782101,Diamond Heights Blvd,100,Diamond St,Berkeley Way,11/8/17,Treatment,Yes,Arterial
+4779101,Diamond Heights Blvd,100,Diamond St,Addison St \ Gold Mine Dr,11/8/17,Treatment,Yes,Arterial
+27946000,45th Ave: Judah St Intersection,100,JUDAH ST,Intersection,10/27/17,Treatment,No,
+2221001,Alta St,93,End,End,10/22/17,Survey,Yes,Residential
+12834000,Union St,96,Icehouse Aly,Sansome St,10/22/17,Survey,Yes,Residential
+12833000,Union St,96,Battery St,Icehouse Aly,10/22/17,Survey,Yes,Residential
+5226000,Emery Ln,84,Vallejo St,End,10/21/17,Survey,Yes,Residential
+4718000,Derby St,84,Mason St,End,10/21/17,Survey,Yes,Residential
+13099001,Vallejo St,94,Alta Vista Ter,Taylor St,10/21/17,Survey,Yes,Residential
+10378000,Peru Ave,100,Edinburgh St,Naples St,10/20/17,Treatment,Yes,Residential
+21714000,Edinburgh St: France Ave Intersection,100,FRANCE AVE,Intersection,10/20/17,Treatment,No,
+21713000,France Ave: Naples St Intersection,100,NAPLES ST,Intersection,10/20/17,Treatment,No,
+21691000,Avalon Ave: Lisbon St Intersection,100,LISBON ST,Intersection,10/20/17,Treatment,No,
+21688000,Avalon Ave: Lisbon St Intersection,100,LISBON ST,Intersection,10/20/17,Treatment,No,
+10377000,Peru Ave,100,Madrid St,Edinburgh St,10/20/17,Treatment,Yes,Residential
+10376000,Peru Ave,100,Lisbon St,Madrid St,10/20/17,Treatment,Yes,Residential
+12462000,Taylor St,83,Francisco St,End,10/19/17,Survey,Yes,Residential
+12459000,Taylor St,95,Lombard St,Chestnut St \ Columbus Ave,10/19/17,Survey,Yes,Residential
+4781201,Diamond Heights Blvd,100,Berkeley Way,Diamond St,10/19/17,Treatment,Yes,Arterial
+6400000,Grant Ave,95,Broadway,Columbus Ave,10/19/17,Survey,Yes,Residential
+10610000,Diamond Heights Blvd,100,Clipper St,Burnett Ave \ Portola Dr,10/19/17,Treatment,Yes,Arterial
+12456000,Taylor St,95,Filbert St,Valparaiso St,10/19/17,Survey,Yes,Residential
+4781101,Diamond Heights Blvd,100,Berkeley Way,Diamond St,10/18/17,Treatment,Yes,Arterial
+4778101,Diamond Heights Blvd,100,Gold Mine Dr,Diamond St,10/18/17,Treatment,Yes,Arterial
+7515001,JESSIE ST,67,END,ECKER ST,10/18/17,Survey,Yes,
+21990000,Addison St: Diamond Heights Blvd \ Gold Mine Dr Intersection,100,DIAMOND HEIGHTS BLVD \ GOLD MINE DR,Intersection,10/18/17,Treatment,No,
+12177000,Stevenson St,41,Gough St,End,10/18/17,Survey,Yes,Residential
+4780201,Diamond Heights Blvd,100,Addison St \ Gold Mine Dr,Berkeley Way,10/18/17,Treatment,Yes,Arterial
+4780101,Diamond Heights Blvd,100,Addison St \ Gold Mine Dr,Berkeley Way,10/18/17,Treatment,Yes,Arterial
+21991000,Berkeley Way: Diamond Heights Blvd Intersection,100,DIAMOND HEIGHTS BLVD,Intersection,10/18/17,Treatment,No,
+4778201,Diamond Heights Blvd,100,Gold Mine Dr,Diamond St,10/18/17,Treatment,Yes,Arterial
+3305000,Bryant St,100,16th St,17th St,10/17/17,Treatment,Yes,Collector
+3302000,Bryant St,100,Division St,Alameda St,10/17/17,Treatment,Yes,Collector
+12163000,Steveloe Pl,95,Jones St,End,10/17/17,Survey,Yes,Residential
+3304000,Bryant St,100,15th St,16th St,10/17/17,Treatment,Yes,Collector
+3303000,Bryant St,100,Alameda St,15th St,10/17/17,Treatment,Yes,Collector
+2303000,Anthony St,79,Jessie St,End,10/17/17,Survey,Yes,Residential
+24213000,15th St: Bryant St Intersection,100,BRYANT ST,Intersection,10/17/17,Treatment,No,
+3306000,Bryant St,100,17th St,Mariposa St,10/17/17,Treatment,Yes,Collector
+24215000,Alameda St: Bryant St Intersection,100,BRYANT ST,Intersection,10/17/17,Treatment,No,
+4362000,Converse St,95,End,Bryant St,10/17/17,Survey,Yes,Residential
+11184000,Russ St,83,Tulip Aly,Natoma St,10/17/17,Survey,Yes,Residential
+24024000,Bryant St: Mariposa St Intersection,100,MARIPOSA ST,Intersection,10/17/17,Treatment,No,
+686000,16th Ave,91,Noriega St,Ortega St,10/16/17,Treatment,Yes,Residential
+1095000,21st Ave,80,Ocean Ave,Eucalyptus Dr,10/16/17,Treatment,Yes,Residential
+5079000,Edgar Ave,89,Niagara Ave,Bruce Ave,10/16/17,Treatment,Yes,Residential
+10508000,Plaza St,97,Magellan Ave,Laguna Honda Blvd,10/16/17,Treatment,Yes,Residential
+7025000,Hotaling Pl,81,Washington St,Jackson St,10/16/17,Survey,Yes,Residential
+687000,16th Ave,93,Ortega St,Pacheco St,10/16/17,Treatment,Yes,Residential
+5874000,Front St,85,Broadway,Vallejo St,10/16/17,Survey,Yes,Residential
+2225000,Alton Ave,99,Pacheco St,09th Ave,10/16/17,Treatment,Yes,Residential
+3771000,Castenada Ave,93,Forest Hill Path \ Magellan Ave,Pacheco St,10/16/17,Treatment,Yes,Residential
+3649000,Campton Pl,92,Grant Ave,Stockton St,10/16/17,Survey,Yes,Residential
+9337000,Moraga St,91,11th Ave,12th Ave,10/16/17,Treatment,Yes,Residential
+3164000,Broadway,99,Leavenworth St,Cyrus Pl,10/16/17,Treatment,Yes,Residential
+9986000,Orizaba Ave,98,Randolph St,Lobos St,10/16/17,Treatment,Yes,Residential
+3165000,Broadway,98,Cyrus Pl,Hyde St,10/16/17,Treatment,Yes,Residential
+4919000,Dorado Ter,74,End,End,10/16/17,Treatment,Yes,Residential
+2396000,Arch St,96,Brotherhood Way,Randolph St,10/16/17,Treatment,Yes,Collector
+1396000,25th Ave,85,Ocean Ave,Eucalyptus Dr,10/16/17,Treatment,Yes,Residential
+3466000,Byxbee St,99,Garfield St,Holloway Ave,10/16/17,Treatment,Yes,Residential
+6631000,Halleck St,85,Front St,Battery St,10/16/17,Survey,Yes,Residential
+3777000,Castenada Ave,83,Montalvo Ave,End,10/16/17,Treatment,Yes,Residential
+2710000,Bancroft Ave,100,Jennings St,Keith St,10/16/17,Treatment,Yes,Residential
+9240000,Moncada Way,70,Junipero Serra Blvd,Junipero Serra Blvd,10/16/17,Treatment,Yes,Residential
+4777201,Diamond Heights Blvd,100,Duncan St,Gold Mine Dr,10/16/17,Treatment,Yes,Arterial
+4776201,Diamond Heights Blvd,100,Carnelian Way,Duncan St,10/16/17,Treatment,Yes,Arterial
+9647201,Noriega St,84,11th Ave,12th Ave,10/16/17,Treatment,Yes,Residential
+9320000,Montgomery St,89,Lombard St,Chestnut St,10/16/17,Treatment,Yes,Residential
+20451000,Bancroft Ave: Jennings St Intersection,100,JENNINGS ST,Intersection,10/16/17,Treatment,No,
+22038000,Diamond Heights Blvd: Duncan St Intersection,100,DUNCAN ST,Intersection,10/16/17,Treatment,No,
+1395000,25th Ave,87,Sloat Blvd,Ocean Ave,10/16/17,Treatment,Yes,Residential
+1313000,24th Ave,85,Sloat Blvd,Ocean Ave,10/16/17,Treatment,Yes,Residential
+6158000,Gennessee St,97,Monterey Blvd,Joost Ave,10/16/17,Treatment,Yes,Residential
+6408000,Grant Ave,84,Gerke Aly,Jack Micheline Aly,10/16/17,Survey,Yes,Residential
+8536000,Lunado Ct,96,End,Lunado Way,10/16/17,Treatment,Yes,Residential
+20487000,Bancroft Ave: Keith St Intersection,100,KEITH ST,Intersection,10/16/17,Treatment,No,
+2544000,Athens St,97,Cordova St,Naples St,10/16/17,Treatment,Yes,Residential
+4776102,Diamond Heights Blvd,100,Safira Ln,Duncan St,10/16/17,Treatment,Yes,Arterial
+5273000,Eucalyptus Dr,91,Melba Ave,23rd Ave,10/16/17,Treatment,Yes,Residential
+11653000,Sargent St,98,Ralston St,Byxbee St,10/16/17,Treatment,Yes,Residential
+12527000,Terrace Dr,97,Portola Dr,Santa Clara Ave,10/16/17,Treatment,Yes,Residential
+762000,17th Ave,80,Moraga St,Noriega St,10/16/17,Treatment,Yes,Residential
+22036000,Diamond Heights Blvd: Gold Mine Dr Intersection,100,GOLD MINE DR,Intersection,10/16/17,Treatment,No,
+33497000,Diamond Heights Blvd: Safira Ln Intersection,100,SAFIRA LN,Intersection,10/16/17,Treatment,No,
+4777101,Diamond Heights Blvd,100,Duncan St,Gold Mine Dr,10/16/17,Treatment,Yes,Arterial
+9321000,Montgomery St,96,Chestnut St,Francisco St,10/16/17,Treatment,Yes,Residential
+11590000,Santa Rosa Ave,100,Alemany Blvd,Cayuga Ave,10/13/17,Treatment,Yes,Residential
+9631000,Noe St,100,Clipper St,26th St,10/13/17,Treatment,Yes,Residential
+9572000,Newhall St,100,Mckinnon Ave,Newcomb Ave,10/13/17,Treatment,Yes,Residential
+8100000,Langton St,100,Decker Aly,Harrison St,10/13/17,Treatment,Yes,Residential
+9628000,Noe St,100,24th St,Jersey St,10/13/17,Treatment,Yes,Residential
+4774101,Diamond Heights Blvd,100,Clipper St,Duncan St,10/13/17,Treatment,Yes,Arterial
+9571000,Newhall St,100,La Salle Ave,Mckinnon Ave,10/13/17,Treatment,Yes,Residential
+4775101,Diamond Heights Blvd,100,Duncan St,Carnelian Way,10/13/17,Treatment,Yes,Arterial
+475000,10th Ave,100,Moraga St,Noriega St,10/13/17,Treatment,Yes,Residential
+9547000,Newburg St,100,27th St \ Castro St,Duncan St,10/13/17,Treatment,Yes,Residential
+8098000,Langton St,100,Howard St,Folsom St,10/13/17,Treatment,Yes,Residential
+8880000,Maynard St,100,Castle Manor Ave \ Mission St,Craut St,10/13/17,Treatment,Yes,Residential
+8099000,Langton St,100,Folsom St,Decker Aly,10/13/17,Treatment,Yes,Residential
+12234000,Stoneybrook Ave,100,Alemany Blvd,Cambridge St \ Trumbull St,10/13/17,Treatment,Yes,Residential
+4774201,Diamond Heights Blvd,100,Clipper St,Duncan St,10/13/17,Treatment,Yes,Arterial
+11594000,Santa Rosa Ave,100,San Jose Ave,End,10/13/17,Treatment,Yes,Residential
+4775201,Diamond Heights Blvd,100,Duncan St,Carnelian Way,10/13/17,Treatment,Yes,Arterial
+22336000,Clipper St: Diamond Heights Blvd Intersection,100,DIAMOND HEIGHTS BLVD,Intersection,10/13/17,Treatment,No,
+21493000,Hanover St: Lowell St Intersection,100,LOWELL ST,Intersection,10/13/17,Treatment,No,
+22335000,Diamond Heights Blvd: Duncan St Intersection,100,DUNCAN ST,Intersection,10/13/17,Treatment,No,
+22318000,Carnelian Way: Diamond Heights Blvd Intersection,100,DIAMOND HEIGHTS BLVD,Intersection,10/13/17,Treatment,No,
+1861000,38th Ave,100,Ulloa St,Vicente St,10/13/17,Treatment,Yes,Residential
+4776101,Diamond Heights Blvd,100,Carnelian Way,Safira Ln,10/13/17,Treatment,Yes,Arterial
+9646000,Noriega St,100,10th Ave,11th Ave,10/13/17,Treatment,Yes,Residential
+10032000,Ortega St,100,43rd Ave,44th Ave,10/13/17,Treatment,Yes,Residential
+3128000,Bright St,100,Randolph St,Sargent St,10/13/17,Treatment,Yes,Residential
+11786000,Shafter Ave,100,Keith St,Lane St,10/13/17,Treatment,Yes,Residential
+10946000,Raymond Ave,100,Elliot St,Sawyer St,10/13/17,Treatment,Yes,Residential
+11593000,Santa Rosa Ave,100,San Gabriel Ave,San Jose Ave,10/13/17,Treatment,Yes,Residential
+1841000,37th Ave,100,Wawona St,Yorba St,10/13/17,Treatment,Yes,Residential
+11592000,Santa Rosa Ave,100,Capistrano Ave,San Gabriel Ave,10/13/17,Treatment,Yes,Residential
+11589000,Santa Rosa Ave,100,Mission St,Alemany Blvd,10/13/17,Treatment,Yes,Residential
+9627000,Noe St,100,Elizabeth St,24th St,10/13/17,Treatment,Yes,Residential
+12156000,Steiner St,91,Lombard St,Chestnut St,10/12/17,Survey,Yes,Residential
+8448000,Lombard St,62,Leavenworth St,Montclair Ter,10/12/17,Survey,Yes,Residential
+3340000,Buchanan St,91,California St,Sacramento St,10/12/17,Survey,Yes,Residential
+4369000,Cora St,77,Leland Ave,Visitacion Ave,10/12/17,Survey,Yes,Residential
+8449000,Lombard St,78,Montclair Ter,Hyde St,10/12/17,Survey,Yes,Residential
+9898000,Octavia St,91,Vallejo St,Green St,10/12/17,Survey,Yes,Residential
+3740000,Carroll Ave,88,Issleib Ave \ Newhall St,Phelps St,10/12/17,Survey,Yes,Residential
+1176000,22nd St,95,Vermont St,San Bruno Ave,10/11/17,Survey,Yes,Residential
+9604000,Nido Ave,97,Turk Blvd,Vega St,10/11/17,Survey,Yes,Residential
+1249000,23rd St,95,Vermont St,San Bruno Ave,10/11/17,Survey,Yes,Residential
+1177000,22nd St,95,San Bruno Ave,Utah St,10/11/17,Survey,Yes,Residential
+1252000,23rd St,95,Utah St,Potrero Ave,10/11/17,Survey,Yes,Residential
+1178000,22nd St,95,Utah St,Potrero Ave,10/11/17,Survey,Yes,Residential
+12034000,Southard Pl,85,Greenwich St,End,10/11/17,Survey,Yes,Residential
+1250000,23rd St,95,San Bruno Ave,Sfgh Access,10/11/17,Survey,Yes,Residential
+1251000,23rd St,95,Sfgh Access,Utah St,10/11/17,Survey,Yes,Residential
+6877000,Daniel Burnham Ct,95,Van Ness Ave,Franklin St,10/11/17,Survey,Yes,Residential
+6507002,Greenwich St,95,End,Larkin St,10/10/17,Survey,Yes,Residential
+6515000,Greenwich St,97,Octavia St,Laguna St,10/10/17,Survey,Yes,Residential
+6507001,Greenwich St,95,Hyde St,End,10/10/17,Survey,Yes,Residential
+8596000,Madera St,98,Arkansas St,Wisconsin St,10/10/17,Survey,Yes,Residential
+3211000,Broderick St,91,Pacific Ave,Broadway,10/10/17,Survey,Yes,Residential
+1503000,26th St,97,Connecticut St,Wisconsin St,10/10/17,Survey,Yes,Residential
+1094000,21st Ave,100,Sloat Blvd,Ocean Ave,10/10/17,Treatment,Yes,Residential
+1031000,20th St,97,Pennsylvania Ave,Mississippi St,10/10/17,Survey,Yes,Residential
+6507002,GREENWICH ST,95,END,LARKIN ST,10/10/17,Survey,Yes,
+6507001,GREENWICH ST,95,HYDE ST,END,10/10/17,Survey,Yes,
+12540000,Texas St,89,Mariposa St,18th St,10/10/17,Survey,Yes,Residential
+6898000,Hickory St,58,Van Ness Ave,Franklin St,10/10/17,Survey,Yes,Residential
+3218000,Broderick St,87,Lombard St,Chestnut St,10/10/17,Survey,Yes,Residential
+5204000,Elm St,92,Franklin St,Gough St,10/9/17,Survey,Yes,Residential
+7203000,Indiana St,95,End,Tulare St,10/9/17,Survey,Yes,Residential
+10933000,Rankin St,99,Oakdale Ave,Palou Ave,10/9/17,Survey,Yes,Residential
+5794000,Austin St,92,Gough St,Octavia St,10/9/17,Survey,Yes,Residential
+7893000,Kirkwood Ave,85,Mendell St,03rd St,10/6/17,Survey,Yes,Residential
+6017101,Garlington Ct,95,Commer Ct,End,10/6/17,Survey,Yes,Residential
+4248000,Cole St,44,17th St,Carmel St,10/6/17,Survey,Yes,Residential
+13618000,Whitney Young Cir,99,Progress St,Newcomb Ave,10/6/17,Survey,Yes,Residential
+8922000,Mckinnon Ave,85,Lane St,Mendell St,10/6/17,Survey,Yes,Residential
+12602000,Thornton Ave,95,Quint St \ Waterville St,Elmira St,10/5/17,Survey,Yes,Residential
+4911000,Donner Ave,99,Phelps St,Bay Shore Blvd,10/5/17,Survey,Yes,Residential
+9882201,Octavia St,91,Fell St,Linden St,10/4/17,Survey,Yes,Residential
+9885000,Octavia St,93,Ivy St,Grove St,10/4/17,Survey,Yes,Residential
+12830000,Underwood Ave,95,Lane St,03rd St,10/4/17,Survey,Yes,Residential
+9882101,Octavia St,93,Fell St,Linden St,10/4/17,Survey,Yes,Residential
+10813000,Quesada Ave,95,Jennings St,Keith St,10/4/17,Survey,Yes,Residential
+9783000,Oakdale Ave,95,Ingalls St,End,10/4/17,Survey,Yes,Residential
+8094000,Lane St,95,Underwood Ave,Van Dyke Ave,10/4/17,Survey,Yes,Residential
+10812000,Quesada Ave,95,Ingalls St,Jennings St,10/4/17,Survey,Yes,Residential
+7818000,Key Ave,93,End,Jennings St,10/3/17,Survey,Yes,Residential
+13342000,Wabash Ter,91,Beeman Ln \ Racine Ln,San Bruno Ave \ Teddy Ave,10/3/17,Survey,Yes,Residential
+3272000,Brussels St,93,Ward St,Harkness Ave,10/3/17,Survey,Yes,Residential
+13393000,Ward St,95,Goettingen St,Ankeny St \ Sparta St,10/3/17,Survey,Yes,Residential
+3273000,Brussels St,84,Harkness Ave,Wilde Ave,10/3/17,Survey,Yes,Residential
+2527000,Ashton Ave,100,Pico Ave,Legion Ct,10/2/17,Treatment,Yes,Residential
+2525000,Ashton Ave,100,Head St,De Montfort Ave,10/2/17,Treatment,Yes,Residential
+3136000,Britton St,95,Visitacion Ave,End,10/2/17,Survey,Yes,Residential
+2523000,Ashton Ave,100,Holloway Ave,Holloway Ave,10/2/17,Treatment,Yes,Residential
+2528000,Ashton Ave,100,Legion Ct,Ocean Ave,10/2/17,Treatment,Yes,Residential
+3135000,Britton St,86,Leland Ave,Visitacion Ave,10/2/17,Survey,Yes,Residential
+33417000,Ashton Ave: Legion Ct Intersection,100,LEGION CT,Intersection,10/2/17,Treatment,No,
+22618000,Ashton Ave: De Montfort Ave Intersection,100,DE MONTFORT AVE,Intersection,10/2/17,Treatment,No,
+22665000,Ashton Ave: Pico Ave Intersection,100,PICO AVE,Intersection,10/2/17,Treatment,No,
+22619000,Ashton Ave: Head St Intersection,100,HEAD ST,Intersection,10/2/17,Treatment,No,
+2526000,Ashton Ave,100,De Montfort Ave,Pico Ave,10/2/17,Treatment,Yes,Residential
+4721000,Desmond St,99,Visitacion Ave,Sunnydale Ave,10/2/17,Survey,Yes,Residential
+8429000,Loehr St,95,Visitacion Ave,End,10/2/17,Survey,Yes,Residential
+2524000,Ashton Ave,100,Holloway Ave,Head St,10/2/17,Treatment,Yes,Residential
+4376000,Portola Dr,76,End,Fenton Ln,10/1/17,Survey,Yes,Residential
+2079000,Abbey St,95,Chula Ln,17th St,10/1/17,Survey,Yes,Residential
+8081000,Landers St,99,14th St,15th St,10/1/17,Survey,Yes,Residential
+9613000,Noe St,87,17th St,Ford St,10/1/17,Survey,Yes,Residential
+9614000,Noe St,95,Ford St,18th St,10/1/17,Survey,Yes,Residential
+1066000,20th St,99,Hartford St,Castro St,9/29/17,Survey,Yes,Residential
+4550002,Cumberland St,64,End,Noe St,9/29/17,Survey,Yes,Residential
+984000,19th St,99,Hartford St,Castro St,9/29/17,Survey,Yes,Residential
+9971000,Ord St,95,Market St,18th St,9/29/17,Survey,Yes,Residential
+4548000,Cumberland St,84,Church St,End,9/29/17,Survey,Yes,Residential
+12237000,Storrie St,95,Market St,18th St \ Hattie St,9/29/17,Survey,Yes,Residential
+4741000,Diamond St,94,21st St,22nd St,9/28/17,Survey,Yes,Residential
+1286000,23rd St,95,Douglass St,Hoffman Ave,9/28/17,Survey,Yes,Residential
+4737000,Diamond St,83,Market St,18th St,9/28/17,Survey,Yes,Residential
+11528000,Sanchez St,99,Elizabeth St,24th St,9/28/17,Survey,Yes,Residential
+4269000,Collingwood St,95,Market St,18th St,9/28/17,Survey,Yes,Residential
+3909000,Chattanooga St,95,21st St,22nd St,9/27/17,Survey,Yes,Residential
+10898000,Ramona Ave,85,14th St,15th St,9/27/17,Survey,Yes,Residential
+975000,19th St,98,Valencia St,Lapidge St,9/27/17,Survey,Yes,Residential
+2259000,Ames St,98,22nd St,23rd St,9/27/17,Survey,Yes,Residential
+979000,19th St,98,Oakwood St,Dolores St,9/27/17,Survey,Yes,Residential
+10602000,Poplar St,98,24th St,25th St,9/27/17,Survey,Yes,Residential
+978000,19th St,98,Guerrero St,Oakwood St,9/27/17,Survey,Yes,Residential
+11426000,San Jose Ave,98,22nd St,Alvarado St,9/27/17,Survey,Yes,Residential
+3385000,Burnett Ave,84,Golding Ln,Perego Ter,9/26/17,Survey,Yes,Residential
+8408000,Lisbon St,100,Brazil Ave,Persia Ave,9/26/17,Treatment,Yes,Residential
+13301000,Vienna St,100,Brazil Ave,Persia Ave,9/26/17,Treatment,Yes,Residential
+8406000,Lisbon St,100,Avalon Ave,Excelsior Ave,9/26/17,Treatment,Yes,Residential
+21497000,Brunswick St: Lowell St Intersection,100,LOWELL ST,Intersection,9/26/17,Treatment,No,
+27547000,25th Ave: Anza St Intersection,100,ANZA ST,Intersection,9/26/17,Treatment,No,
+21491000,Byron Ct: Lowell St Intersection,100,LOWELL ST,Intersection,9/26/17,Treatment,No,
+21719000,Lisbon St: Persia Ave Intersection,100,PERSIA AVE,Intersection,9/26/17,Treatment,No,
+3806000,Castro St,96,Cesar Chavez St,27th St \ Newburg St,9/25/17,Survey,Yes,Residential
+4622000,Day St,95,Noe St,29th St \ Castro St,9/25/17,Survey,Yes,Residential
+3805000,Castro St,99,26th St,Cesar Chavez St,9/25/17,Survey,Yes,Residential
+13127000,Valley St,98,Church St,Sanchez St,9/25/17,Survey,Yes,Residential
+13126000,Valley St,98,Dolores St,Church St,9/25/17,Survey,Yes,Residential
+12352000,Sweeny St,100,Dartmouth St,Dunsmuir St,9/22/17,Treatment,Yes,Residential
+9516000,Natoma St,100,10th St,11th St,9/22/17,Treatment,Yes,Residential
+13608000,Whitney St,83,30th St,Randall St,9/21/17,Survey,Yes,Residential
+8008000,Laidley St,95,Roanoke St,Castro St,9/21/17,Survey,Yes,Residential
+8006000,Laidley St,95,Miguel St,Mateo St,9/21/17,Survey,Yes,Residential
+11092000,Roanoke St,95,Laidley St,Chenery St,9/21/17,Survey,Yes,Residential
+8007000,Laidley St,95,Mateo St,Roanoke St,9/21/17,Survey,Yes,Residential
+8004000,Laidley St,96,Harper St,Fairmount St,9/21/17,Survey,Yes,Residential
+10914000,Randall St,95,Sanchez St,Harper St,9/21/17,Survey,Yes,Residential
+8003000,Laidley St,96,Harry St \ Noe St,Harper St,9/21/17,Survey,Yes,Residential
+6698000,Harper St,95,Randall St,Laidley St,9/21/17,Survey,Yes,Residential
+2451000,Arlington St,93,Miguel St,Mateo St,9/20/17,Survey,Yes,Residential
+9641000,Nordhoff St,94,Mangels Ave,Stillings Ave,9/20/17,Survey,Yes,Residential
+2453000,Arlington St,93,Saint Marys Ave,Roanoke St,9/20/17,Survey,Yes,Residential
+2448000,Arlington St,84,Fairmount St,Charles St,9/20/17,Survey,Yes,Residential
+8401000,Lippard Ave,84,Chenery St,Bosworth St,9/20/17,Survey,Yes,Residential
+2447000,Arlington St,93,Randall St,Fairmount St,9/20/17,Survey,Yes,Residential
+8647000,Mangels Ave,95,Burnside Ave,Baden St,9/20/17,Survey,Yes,Residential
+4263000,College Ave,93,Saint Marys Ave,Crescent Ave \ Mission St,9/20/17,Survey,Yes,Residential
+8402000,Lippard Ave,95,Bosworth St,Joost Ave,9/20/17,Survey,Yes,Residential
+2450000,Arlington St,86,Highland Ave,Miguel St,9/20/17,Survey,Yes,Residential
+12187000,Stillings Ave,95,Martha Ave,Nordhoff St,9/20/17,Survey,Yes,Residential
+2081000,Acadia St,93,Joost Ave,End,9/20/17,Survey,Yes,Residential
+3185000,Broadway,100,Baker St,Lyon St,9/14/17,Treatment,Yes,Residential
+8435000,Lombard St,100,Kearny St \ Telegraph Hill Blvd,Child St,9/14/17,Treatment,Yes,Residential
+9899000,Octavia St,100,Green St,Union St,9/14/17,Treatment,Yes,Residential
+11460000,San Jose Ave,79,End,Mount Vernon Ave,9/11/17,Survey,Yes,Arterial
+6327000,Gough St,34,Turk St,Eddy St,9/11/17,Survey,Yes,Arterial
+13655000,Williams Ave,75,Reddy St,Diana St \ Shoup Ave,9/11/17,Survey,Yes,Collector
+6968000,Holloway Ave,100,Granada Ave,Miramar Ave,9/7/17,Treatment,Yes,Collector
+6972000,Holloway Ave,100,Jules Ave,Ashton Ave,9/7/17,Treatment,Yes,Collector
+6967000,Holloway Ave,100,Plymouth Ave,Granada Ave,9/7/17,Treatment,Yes,Collector
+6971000,Holloway Ave,100,Faxon Ave,Jules Ave,9/7/17,Treatment,Yes,Collector
+22609000,Faxon Ave: Holloway Ave Intersection,100,HOLLOWAY AVE,Intersection,9/7/17,Treatment,No,
+22613000,Ashton Ave: Holloway Ave Intersection,100,HOLLOWAY AVE,Intersection,9/7/17,Treatment,No,
+22219000,Harold Ave: Holloway Ave Intersection,100,HOLLOWAY AVE,Intersection,9/7/17,Treatment,No,
+22590000,Capitol Ave: Holloway Ave Intersection,100,HOLLOWAY AVE,Intersection,9/7/17,Treatment,No,
+22612000,Holloway Ave: Jules Ave Intersection,100,JULES AVE,Intersection,9/7/17,Treatment,No,
+22584000,Granada Ave: Holloway Ave Intersection,100,HOLLOWAY AVE,Intersection,9/7/17,Treatment,No,
+22220000,Holloway Ave: Lee Ave Intersection,100,LEE AVE,Intersection,9/7/17,Treatment,No,
+22221000,Brighton Ave: Holloway Ave Intersection,100,HOLLOWAY AVE,Intersection,9/7/17,Treatment,No,
+22589000,Holloway Ave: Miramar Ave Intersection,100,MIRAMAR AVE,Intersection,9/7/17,Treatment,No,
+6965000,Holloway Ave,100,Lee Ave,Brighton Ave,9/7/17,Treatment,Yes,Collector
+6969000,Holloway Ave,100,Miramar Ave,Capitol Ave,9/7/17,Treatment,Yes,Collector
+6966000,Holloway Ave,100,Brighton Ave,Plymouth Ave,9/7/17,Treatment,Yes,Collector
+6970000,Holloway Ave,100,Capitol Ave,Faxon Ave,9/7/17,Treatment,Yes,Collector
+6964000,Holloway Ave,100,Harold Ave,Lee Ave,9/7/17,Treatment,Yes,Collector
+8680000,Maple St,100,Washington St,Clay St,9/5/17,Treatment,Yes,Residential
+9644000,Noriega St,100,08th Ave,09th Ave,9/5/17,Treatment,Yes,Residential
+11579000,Santa Monica Way,100,End,San Lorenzo Way,9/5/17,Treatment,Yes,Residential
+11580000,Santa Monica Way,100,San Lorenzo Way,Santa Paula Ave,9/5/17,Treatment,Yes,Residential
+11578000,Santa Monica Way,100,Santa Clara Ave \ Yerba Buena Ave,End,9/5/17,Treatment,Yes,Residential
