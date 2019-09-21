@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Traffic Visualization Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+
+  <!--CSS Link-->
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+  <!-- Navigation Section -->
+  <div class="navigation">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" style="background-color: turquoise;" href="data1.html">Home Page</a>
+      <button class="navbar-toggler border border-white" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Plots
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="max_route.html">Max Route Bar Chart</a>
+              <a class="dropdown-item" href="Scatter.html">Max Route Scatter Chart</a>
+              <a class="dropdown-item active" href="Heat.html">HeatMap</a> 
+              <!-- <a class="dropdown-item" href="wind_speed.html">Wind Speed</a> -->
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://datawrapper.dwcdn.net/4KllE/1/">Interactive Chart</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="data1.html">Data</a>
+          </li>
+
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <!-- Content Section -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 col-md-12">
+        <!-- Left box  -->
+        <div class="box">
+          <h3 class="title">Max Route Scatter Chart</h3>
+          <hr>
+          <img src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Rush%20Hour%20Traffic%20Routes%20Scatter%20Plot.png?raw=true" alt="Max Route Scatter Chart">
+          <p>As expected, the routes with most traffic begins at 3rd St & becomes significantly dense as one approaches Van Ness Ave . Here we can visualize this data here with this Scatter Chart.</p>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-12">
+        <!-- Right Box -->
+        <div class="box">
+          <h5 class="title">Visualizations</h5>
+          <hr>
+
+
+          <div class="container">
+            <div class="row" style="padding-bottom: 30px;">
+              <div class="col-6">
+                <a href="max_route.html">
+                  <img class="panel" src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Rush%20Hour%20Routes%20Max%20Traffic%20Count.png?raw=true" width=240 alt="Max Route Bar Chart">
+                </a>
+              </div>
+              <div class="col-6">
+                <a href="Scatter.html">
+                  <img class="panel" src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Rush%20Hour%20Traffic%20Routes%20Scatter%20Plot.png?raw=true" width=240 alt="Max Route Scatter Chart">
+                </a>
+              </div>
+            </div>
+
+            <div class="row" style="padding-bottom: 30px;">
+              <div class="col-6">
+                <!-- <a href="cloudiness.html"> -->
+                  <!-- <img class="panel active" src="https://github.com/mrccayanan/WeatherPy_Python_API_HW/blob/master/Output_Plots/Cloudiness_vs_Latitude.png?raw=true" width=240 alt="Cloudiness Graph"> -->
+                </a>
+              </div>
+              <div class="col-6">
+                <!-- <a href="wind_speed.html"> -->
+                  <!-- <img class="panel" src="https://github.com/mrccayanan/WeatherPy_Python_API_HW/blob/master/Output_Plots/Wind_Speed_vs_Latitude.png?raw=true" width=240 alt="Wind Speed Graph"> -->
+                </a>
+              </div>
+
+
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Footer Section -->
+  <footer>
+    <div class="footer">Copyright &copy; Traffic Monsters 2019</div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
